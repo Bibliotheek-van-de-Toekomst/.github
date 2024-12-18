@@ -1,1 +1,2 @@
-# .github
+# Bouwen aan de Bibliotheek van de Toekomst
+Welkom bij de GitHub pagina van het project Bouwen aan de Bibliotheek van de Toekomst. Samen met acht Brainport Bibliotheken bouwen we aan nieuwe dingen die jij nu al kan uitproberen. Jij helpt ons om te bedenken hoe de bibliotheek er straks uitziet. Dus duik erin, speel met nieuwe ideeën en zie als eerste wat er allemaal mogelijk is. Jouw avontuur begint hier!
